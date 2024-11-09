@@ -6,6 +6,5 @@
       "sensor"
     ],
     "iot_class": "local_push",
-    "homeassistant": "2024.1.0",
     "render_readme": true
   }
